@@ -18,7 +18,7 @@ This repository contains scripts and documentation to assist in upgrading Jenkin
 
 ## Background
 
-Jenkins is a popular automation server used by development teams for continuous integration and continuous delivery (CI/CD) purposes. As Jenkins evolves, it is crucial to keep your Jenkins server up-to-date to benefit from the latest features, improvements, and security updates.
+Jenkins is a popular automation server developed teams use for continuous integration and continuous delivery (CI/CD) purposes. As Jenkins evolves, it is crucial to keep your Jenkins server up-to-date to benefit from the latest features, improvements, and security updates.
 
 This repository aims to provide a seamless upgrade process for Jenkins users who want to migrate to version 3.0 or any subsequent versions.
 
